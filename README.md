@@ -18,9 +18,9 @@ Coding:
 ```bash
     1. data
         - create models
-        - create service to call api
+        - create service to fetch data from api
     2. feature
         - create hook for store data
-        - create controller
-        - create view get data from controller
+        - create controller for manage data from hook
+        - create view get data from controller and display to user
 ```
